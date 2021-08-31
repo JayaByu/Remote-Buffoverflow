@@ -3,7 +3,7 @@
 # Software Link: https://www.exploit-db.com/apps/43240af83a4414d2dcc19fff3af31a63-crossfire-1.9.0.tar.gz
 # Version: 1.9.0
 # Tested on: Kali Linux 2020.4
-# CVE : CVE-2006-1236
+# CVE : CVE-2006-1236 
 
 #!/bin/python
 import socket
