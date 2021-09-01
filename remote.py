@@ -8,7 +8,7 @@
 #!/bin/python
 import socket
 import time
-
+   
 
 # Crash at 4379
 # EIP Offset at 4368
